@@ -1,0 +1,14 @@
+{"events": [
+    {
+        "name": "Family Dinner",
+        "time": "5",
+        "completed": "false",
+        "day": "2"
+    },
+    {
+        "name": "Ski Trip",
+        "time": "3",
+        "completed": "true",
+        "day": "4"
+    }
+]}
